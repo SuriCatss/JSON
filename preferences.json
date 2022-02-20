@@ -1,8 +1,7 @@
-"My preferences"{
-	"favorite movie":1+1
-	"favorite series":"Friends"
-	"favorite food":"fried potatoes"
-	"favorite time of year":"winter"
-	"country I want to visit":"USA" 
-}
-
+ {
+ 	"favoriteMovie": "1+1",
+ 	"favoriteSeries": "Friends",
+ 	"favoriteFood": "fried potatoes",
+ 	"favorite_time_of_year": "winter",
+ 	"country_I_want_to_visit": "USA"
+ }

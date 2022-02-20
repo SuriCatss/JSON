@@ -1,9 +1,3 @@
-"Hard skills"{
-	"GitBash"
-	"GitHub"
-	"Postman"
-	"Android Studio"
-	"Charles"
-	"Jmeter"
+{
+	"Hard skills": ["GitBash", "GitHub", "Postman", "Android Studio", "Charles", "Jmeter"]
 }
-
